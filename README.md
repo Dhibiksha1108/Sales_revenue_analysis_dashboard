@@ -25,4 +25,4 @@ This Power BI dashboard analyzes sales and revenue performance using the Superst
 
 ## Outcome
 
-The dashboard provides insights into sales performance, product trends, and category contributions, helping support business decision-making.
+The dashboard provides insights into sales performance, product trends and category contributions, helping support business decision-making.
