@@ -21,7 +21,7 @@ This Power BI dashboard analyzes sales and revenue performance using the Superst
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Outcome
 
